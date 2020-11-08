@@ -1,4 +1,4 @@
-#Arsh's ReadME
+# Arsh's ReadME
 - Run the following command to perform face Aging on a given dataset. 
 - Here the first argument is the path to the folder containing test images.
 - 2nd argument is the number of samples to be used.
