@@ -1,4 +1,8 @@
 # Arsh's ReadME
+- Download the Trained models by running the following code:
+```
+python download_models.py
+```
 - Run the following command to perform face Aging on a given dataset. 
 - Here the first argument is the path to the folder containing test images.
 - 2nd argument is the number of samples to be used.
