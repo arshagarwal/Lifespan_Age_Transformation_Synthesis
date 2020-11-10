@@ -3,11 +3,15 @@
 ```
 python download_models.py
 ```
+- Install the dependencies bu ruuning:
+```
+pip install -r requirements.txt
+```
 - Run the following command to perform face Aging on a given dataset. 
 - Here the first argument is the path to the folder containing test images.
 - 2nd argument is the number of samples to be used.
 ```
-bash run_script/in_the_wild.sh 'path-to-dataset' 'n_samples' 
+bash run_scripts/in_the_wild.sh 'path-to-dataset' 'n_samples' 
 ```
 # Lifespan Age Transformation Synthesis
 ### [Project Page](https://grail.cs.washington.edu/projects/lifespan_age_transformation_synthesis/) | [Paper](https://arxiv.org/pdf/2003.09764.pdf) | [Data](https://github.com/royorel/FFHQ-Aging-Dataset)
